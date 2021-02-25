@@ -1,0 +1,145 @@
+			body{
+						  background-color: white; }
+						  #container {
+						  width: 1100px; 
+						  margin: 0 auto; 
+						  background-color: white; } 
+						  header{
+							 background-color: white;
+						  padding: 0px;
+				font-family: 'Montserrat', sans-serif;
+						  }
+						  header h2{
+							  margin: 0; 
+							  padding-left: 40px;
+							  padding-top: 20px;
+							  padding-bottom: 20px;
+							  font-family: 'Montserrat', sans-serif;
+						      font-size: 30px;
+						  }
+					nav	ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+  background-color: white; 
+  font-family: 'Montserrat', sans-serif;
+}
+
+nav li {
+  float: left;
+}
+#Menu nav li { float:right; } 
+nav li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 30px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif; 
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+  background-color: grey; font-family: 'Montserrat', sans-serif;
+}
+						  footer{
+							background-color: white; 
+							padding: 40px; font-family: 'Montserrat', sans-serif;
+						  }
+						  footer p{
+							margin:0;  font-family: 'Montserrat', sans-serif; 
+						  }
+						  .big-picAbout{
+							  height: 450px;
+						  width: 350px;
+						  position: relative;
+						  left: 29px;}
+						  .big-pic {
+						 width: 400px;
+						 height: 225px;
+						   position:relative;
+						   left:0px;
+						   right:3000000px;
+						   background-color: grey;
+						   padding: 10px;
+						   }
+						                     .big-pic3 {
+											 position:relative;
+											 left: 375px;
+											 padding: 20px;}
+                          .two-column{
+                          display: grid;
+                          grid-template-columns: 50% 50%;
+				         padding: 40px;
+						  background-color: white;  
+						  }
+						  #columns123 {padding: 20px;
+						               position: relative;
+									   left: 25px;}  
+						  #Contact { position: relative; font-weight: bold;
+						  left: 268px; font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+						  
+						  .three-columns{
+							  display: table-row;
+						      padding: 10px;
+							  position: relative;
+							  left:30px;
+						   right:30px;
+						   top:30px;} 
+							  .three-columns2{
+							  display: table-row;
+						      padding: 250px;
+							  position: relative;
+							  left:30px;
+						   right:30px;
+						   top:30px;} 
+							  .three-columns3{
+							  display: table-row;
+						      padding: 250px;
+							  position: relative;
+							  left:30px;
+						   right:30px;
+						   top:3000px;} 
+						 
+					
+						 #About1 
+						  h1 { background-color:#d9d9d9; text-align: center;
+						  font-family: 'Montserrat', sans-serif;}
+							 
+						  
+						  p1 {  text-align: center-left; font-family: 'Montserrat', sans-serif;}} 
+						  .two-column div{
+							 background-color: white; 
+						     margin-left: 10px;
+							 margin-right: 10px;
+						  }
+						  .three-column{
+						  display: grid;
+						  grid-template-columns: 33% 33% 33%;
+						  padding: 40px;
+						  background-color: white;  
+						  }
+						  .three-column div{
+							 background-color: white; 
+						     margin-left: 10px;
+							 margin-right: 10px;
+							 text-align: center; 
+						  }
+						  
+								#Phlexey {
+								text-align: center;
+								right:25px; position: relative; font-family: 'Montserrat', sans-serif; font-weight: bold; color:black; background-color: white;}	
+								#AA {text-align: center; right:25px; position: relative; font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+								#YJT {text-align: center; right:25px; position: relative; font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+								#Pedro { text-align: center; right:25px; position: relative; font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+
+							    #Contact1 {background-color: #d9d9d9; text-align: center; position: relative; left: 275px;font-family: 'Montserrat', sans-serif; color:black; background-color: grey;} 
+                 #SM {font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: #d9d9d9;}
+				 #Phone {font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: #d9d9d9;}
+				 #Email {font-weight: bold; font-family: 'Montserrat', sans-serif; color:black; background-color: #d9d9d9;} 
+                 #Ig {font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+				 #Fb {font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+				 #LI {font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+				 #ph {font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
+				 #em {font-family: 'Montserrat', sans-serif; color:black; background-color: white;}
